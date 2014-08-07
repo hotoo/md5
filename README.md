@@ -2,6 +2,10 @@
 
 ----
 
+[![spm version](http://spmjs.io/badge/md5)](http://spmjs.io/package/md5)
+[![Build Status](https://secure.travis-ci.org/hotoo/md5.png?branch=master)](https://travis-ci.org/hotoo/md5)
+[![Coverage Status](https://coveralls.io/repos/hotoo/md5/badge.png?branch=master)](https://coveralls.io/r/hotoo/md5)
+
 ## Demo
 
 [JavaScript MD5 Demo](http://blueimp.github.io/JavaScript-MD5/)
