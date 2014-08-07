@@ -1,6 +1,6 @@
 {
-  "name": "blueimp-md5",
-  "version": "1.1.0",
+  "name": "md5",
+  "version": "2.0.0",
   "title": "JavaScript MD5",
   "description": "JavaScript MD5 implementation.",
   "keywords": [
@@ -47,5 +47,13 @@
   "scripts": {
     "test": "grunt test"
   },
-  "main": "js/md5.js"
+  "main": "md5.js",
+  "spm": {
+    "main": "md5.js",
+    "devDependencies": {
+      "jquery": "1.7.2",
+      "expect.js": "0.3.1"
+    },
+    "tests": "tests/*-spec.js"
+  }
 }
